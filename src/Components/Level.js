@@ -1,8 +1,8 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
 class Level extends React.Component {
-  constructor() {
-    super();
+  constructor(props) {
+    super(props);
   }
 
   render() {

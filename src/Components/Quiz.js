@@ -1,7 +1,5 @@
 import React from "react";
-import { NavLink } from "react-router-dom";
 import _ from "lodash";
-import PreviousMap from "postcss/lib/previous-map";
 class Quiz extends React.Component {
   constructor() {
     super();

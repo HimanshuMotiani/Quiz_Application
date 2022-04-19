@@ -1,5 +1,4 @@
 import React from "react";
-import { NavLink } from "react-router-dom";
 import Quiz from "./Quiz";
 import Result from './Result'
 import _ from "lodash";
